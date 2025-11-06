@@ -62,6 +62,210 @@ get_header();
     </div>
 </section>
 
+
+
+
+
+
+
+<section>
+    <div class="industry-category-wrapper floor-container" id="ServiceNavigation1" data-spm-anchor-id="a2700.product_home_newuser.0.i7.243e299aHq80zd">
+        <div class="industry-category">
+            <div class="category-info">
+                <div class="title home-util-ellipsis line3 home-fw-bold" title="Explorez des millions d'offres adaptées aux besoins de votre entreprise">Explorez des millions d'offres adaptées aux besoins de votre entreprise</div>
+                <div class="category-number">
+                    <div class="number-item">
+                        <span>Plus de 400 millions</span>
+                        <p>de produits</p>
+                    </div>
+                    <div class="number-item">
+                        <span>+2 000</span>
+                        <p>articles</p>
+                    </div>
+                    <div class="number-item">
+                        <span>30</span>
+                        <p>catégories de produits</p>
+                    </div>
+                    <div class="number-item">
+                        <span>200+</span>
+                        <p>boutiques et régions</p>
+                    </div>
+                </div>
+            </div>
+            <div class="industry-list"><div class="slider_arrow_wrapper prev slider_arrow_hidden">
+                <div data-spm="left_button" class="home-dot-element slider_arrow prev border">
+                    <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Previous slide">
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="slider_inner">
+                <div class="industry-row">
+                    <a title="Chaussures" class="home-dot-element " data-spm="category-11" href="pages/chaussures/chaussures.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png" alt="Environnement category icon">
+                            <div class="industry-name">
+                                <span>Chaussures</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Alimentation" class="home-dot-element " data-spm="category-28" href="pages/alimentation/alimentation.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png" alt="Services commerciaux category icon">
+                            <div class="industry-name">
+                                <span>Alimentation</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="industry-row">
+                    <a title="Poussettes" class="home-dot-element " data-spm="category-44" href="pages/poussettes/pouset.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png" alt="Électronique grand public category icon">
+                            <div class="industry-name">
+                                <span>Poussettes</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Vêtements et accessoires" class="home-dot-element " data-spm="category-3" href="pages/vêtements/pageCategorieVetement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png" alt="Vêtements et accessoires category icon">
+                            <div class="industry-name">
+                                <span>Vêtements et accessoires</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="industry-row">
+                    <a title="Amenagement de chambre" class="home-dot-element " data-spm="category-15" href="pages/amenagement_de_chambre/amenagement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png" alt="Maison et jardin category icon">
+                            <div class="industry-name">
+                                <span>Amenagement de chambre</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Vetements" class="home-dot-element " data-spm="category-18" href="pages/vêtements/pageCategorieVetement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png" alt="Sports et loisirs category icon">
+                            <div class="industry-name">
+                                <span>Vetements</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="industry-row">
+                    <a title="Textile de maternité" class="home-dot-element " data-spm="category-66" href="pages/textile_de_maternité/textile.html" target="_blank" data-spm-protocol="i" data-appeared="false">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png" alt="Beauté category icon">
+                            <div class="industry-name">
+                                <span>Textile de maternite</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Accessoires" class="home-dot-element " data-spm="category-23" href="pages/accessoires/accessoires.html" target="_blank" data-spm-protocol="i" data-appeared="false">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png" alt="Emballage et impression category icon">
+                            <div class="industry-name">
+                                <span>Accessoires</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="industry-row">
+                    <a title="Couches et Lingettes" class="home-dot-element " data-spm="category-36" href="pages/couches_et_lingettes/couche_lingette.html" target="_blank" data-spm-protocol="i" data-appeared="false">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png" alt="Bijouterie, lunetterie, horlogerie et accessoires category icon">
+                            <div class="industry-name">
+                                <span>Couches et Lingettes</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Outils et matériel" class="home-dot-element " data-spm="category-1420" href="https://sale.alibaba.com/category/products/index.html?spm=a2700.product_home_newuser.category_overview.category-1420&amp;wx_navbar_transparent=true&amp;path=/category/products/1420/index.html&amp;ncms_spm=a27aq.cp_1420&amp;prefetchKey=allcategoriesv2&amp;wx_xpage=true&amp;categoryIds=1420" target="_blank" data-spm-protocol="i" data-appeared="false">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01yvRa9M1eCTa1vhbZ9_!!6000000003835-2-tps-200-200.png" alt="Outils et matériel category icon">
+                            <div class="industry-name">
+                                <span>Outils et matériel</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="industry-row">
+                    <a title="Machines industrielles" class="home-dot-element " data-spm="category-43" href="https://sale.alibaba.com/category/products/index.html?spm=a2700.product_home_newuser.category_overview.category-43&amp;wx_navbar_transparent=true&amp;path=/category/products/43/index.html&amp;ncms_spm=a27aq.cp_43&amp;prefetchKey=allcategoriesv2&amp;wx_xpage=true&amp;categoryIds=43" target="_blank" data-spm-protocol="i" data-appeared="false">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01SjYZ821m8pTY9ruQ1_!!6000000004910-2-tps-200-200.png" alt="Machines industrielles category icon">
+                            <div class="industry-name">
+                                <span>Machines industrielles</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Mère, enfants et jouets" class="home-dot-element " data-spm="category-26" href="https://sale.alibaba.com/category/products/index.html?spm=a2700.product_home_newuser.category_overview.category-26&amp;wx_navbar_transparent=true&amp;path=/category/products/26/index.html&amp;ncms_spm=a27aq.cp_26&amp;prefetchKey=allcategoriesv2&amp;wx_xpage=true&amp;categoryIds=26" target="_blank" data-spm-protocol="i" data-appeared="false">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i1/O1CN01SECwAR1ehcde7HSzA_!!6000000003903-2-tps-200-200.png" alt="Mère, enfants et jouets category icon">
+                            <div class="industry-name">
+                                <span>Mère, enfants et jouets</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="industry-row">
+                    <a title="Chaussures et accessoires" class="home-dot-element " data-spm="category-322" href="pages/chaussures/chaussures.html" target="_blank" data-spm-protocol="i">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png" alt="Chaussures et accessoires category icon">
+                            <div class="industry-name">
+                                <span>Chaussures et accessoires</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Appareils électroménagers" class="home-dot-element " data-spm="category-6" href="https://sale.alibaba.com/category/products/index.html?spm=a2700.product_home_newuser.category_overview.category-6&amp;wx_navbar_transparent=true&amp;path=/category/products/6/index.html&amp;ncms_spm=a27aq.cp_6&amp;prefetchKey=allcategoriesv2&amp;wx_xpage=true&amp;categoryIds=6" target="_blank" data-spm-protocol="i">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01VAlsfc1P9zBujbtCk_!!6000000001799-2-tps-200-200.png" alt="Appareils électroménagers category icon">
+                            <div class="industry-name">
+                                <span>Jouets</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="industry-row">
+                    <a title="Véhicules et transport" class="home-dot-element " data-spm="category-201275273" href="https://sale.alibaba.com/category/products/index.html?spm=a2700.product_home_newuser.category_overview.category-201275273&amp;wx_navbar_transparent=true&amp;path=/category/products/201275273/index.html&amp;ncms_spm=a27aq.cp_201275273&amp;prefetchKey=allcategoriesv2&amp;wx_xpage=true&amp;categoryIds=201275273" target="_blank" data-spm-protocol="i">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i3/O1CN01Xyr1VF29Tee5GeZrf_!!6000000008069-2-tps-200-200.png" alt="Véhicules et transport category icon">
+                            <div class="industry-name">
+                                <span>Loisirs</span>
+                            </div>
+                        </div>
+                    </a>
+                    <a title="Biberon" class="home-dot-element " data-spm="category-201951502" href="pages/alimentation/alimentation.html" target="_blank" data-spm-protocol="i">
+                        <div class="industry-item">
+                            <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png" alt="Soins personnels et nettoyage ménager category icon">
+                            <div class="industry-name">
+                                <span>Biberons</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+
+
+
 <section>
     <div class="floor-container">
     <div class="new-user-business-floor" data-spm-anchor-id="a2700.product_home_newuser.0.i8.243e299aHq80zd">
@@ -70,7 +274,7 @@ get_header();
             <div class="ranking-card-box">
                 <div class="ranking-title">
                     <div class="title home-fw-semi-bold" title="Meilleures ventes">Meilleures ventes</div>
-                    <a class="home-dot-element home-fz-medium view-more" data-spm="topRanking" href="<?php echo home_url( '/categorie-produit/alimentation' ); ?>" target="_blank" data-spm-protocol="i" data-appeared="true">En savoir plus</a>
+                    <a class="home-dot-element home-fz-medium view-more" data-spm="topRanking" href="pages/alimentation/alimentation.html" target="_blank" data-spm-protocol="i" data-appeared="true">En savoir plus</a>
                 </div>
                 <div class="ranking-card-slider-box">
                     <div class="rx-carousel-container">
@@ -80,7 +284,7 @@ get_header();
                                 <div class="ranking-card-item">
                                     <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
                                     <div class="ranking-description home-util-ellipsis" title="Faux ongles">Faux ongles</div>
-                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i">
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i">
                                         <div class="mask-img hot-image">
                                             <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alimentation_images/TL_M.jpg" alt="topRanking">
                                             <div class="mask"></div>
@@ -90,21 +294,105 @@ get_header();
                                         </div>
                                     </a>
                                     <div class="cpv-ranking">
-                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i">
                                             <div class="mask-img cpv-ranking-product">
                                                 <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hf2fd2acb354c4d4a82222f3e5d2bb2f6k.jpg_350x350.jpg" alt="topRanking">
                                                 <div class="mask"></div>
                                             </div>
                                         </a>
-                                        </div>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/H5f53e36423284137afe123fdea9a65a1c.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hc804744961b74ec3b0ad2f6aacdab192z.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-
+                            
+                            <div class="rx-image-item">
+                                <div class="ranking-card-item">
+                                    <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
+                                    <div class="ranking-description home-util-ellipsis" title="Phares arrière à LED">Phares arrière à LED</div>
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <div class="mask-img hot-image">
+                                            <img class="bimg" src="https://s.alicdn.com/@sc04/kf/H801c7bff9a5045beb3152912e3f1608cI.jpg_350x350.jpg" alt="topRanking">
+                                            <div class="mask"></div>
+                                        </div>
+                                        <div class="order-tag">
+                                            <span class="tag-score">&nbsp;4.2</span>
+                                        </div>
+                                    </a>
+                                    <div class="cpv-ranking">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hc6f75748073e48dd90bc0410bab999abI.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hcd302ceffd984a5e90bd0c30aa6b13d3R.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/H0e7f2c85da7f47caa8a07676c7addb6bl.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="rx-image-item">
+                                <div class="ranking-card-item">
+                                    <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
+                                    <div class="ranking-description home-util-ellipsis" title="Tissu 100 % polyester">Tissu 100 % polyester</div>
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100000285&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <div class="mask-img hot-image">
+                                            <img class="bimg" src="https://s.alicdn.com/@sc04/kf/H3f8662215deb4c288d9f0ad8ab0ff8d9Q.jpg_350x350.jpg" alt="topRanking">
+                                            <div class="mask"></div>
+                                        </div>
+                                        <div class="order-tag">
+                                            <span class="tag-score">&nbsp;4.6</span>
+                                        </div>
+                                    </a>
+                                    <div class="cpv-ranking">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100000285&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hc121492320434eca840a326a49283e655.png_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100000285&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hd37947a45c0b4b34a6ade4ac87e9d50bV.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100000285&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="https://s.alicdn.com/@sc04/kf/Hc13e02a307e1477da11adb4744458746s.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            
                             <div class="rx-image-item">
                                 <div class="ranking-card-item">
                                     <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
                                     <div class="ranking-description home-util-ellipsis" title="Machines de remplissage">Tire-Lait Manuel</div>
-                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="<?php echo home_url( '/produit/tire-lait-manuel' ); ?>" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="pages/alimentation/detail_Tire-Lait Manuel.html" target="_blank" data-spm-protocol="i" data-appeared="true">
                                         <div class="mask-img hot-image">
                                             <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alimentation_images/TL_M.jpg" alt="topRanking">
                                             <div class="mask"></div>
@@ -114,19 +402,19 @@ get_header();
                                         </div>
                                     </a>
                                     <div class="cpv-ranking">
-                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010756&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
                                             <div class="mask-img cpv-ranking-product">
                                                 <img class="bimg" src="<?php echo get_template_directory_uri(); ?>/assets/images/alimentation_images/Tetine_S.webp" alt="topRanking">
                                                 <div class="mask"></div>
                                             </div>
                                         </a>
-                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010756&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
                                             <div class="mask-img cpv-ranking-product">
                                                 <img class="bimg" src="<?php echo get_template_directory_uri(); ?>/assets/images/alimentation_images/Goupillon_B.jpg" alt="topRanking">
                                                 <div class="mask"></div>
                                             </div>
                                         </a>
-                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010756&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
                                             <div class="mask-img cpv-ranking-product">
                                                 <img class="bimg" src="<?php echo get_template_directory_uri(); ?>/assets/images/alimentation_images/S_UV.jpg" alt="topRanking">
                                                 <div class="mask"></div>
@@ -136,7 +424,120 @@ get_header();
                                 </div>
                             </div>
                             
+                            <div class="rx-image-item">
+                                <div class="ranking-card-item">
+                                    <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
+                                    <div class="ranking-description home-util-ellipsis" title="Éclairage de scène">Éclairage de scène</div>
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010510&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <div class="mask-img hot-image">
+                                            <img class="bimg" src="//s.alicdn.com/@sc04/kf/H67f015d7107347c9b1347856d54b08997.png_350x350.jpg" alt="topRanking">
+                                            <div class="mask"></div>
+                                        </div>
+                                        <div class="order-tag">
+                                            <span class="tag-score">&nbsp;4.2</span>
+                                        </div>
+                                    </a>
+                                    <div class="cpv-ranking">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010510&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/Hf5fd3550d797459b886ac4b1819f2f3aK.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010510&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/H1f2b2915c14b42edabb7276c406947dd4.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010510&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/H9558777f4c86413eaee61ef718a32232G.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
+                            
+                            <div class="rx-image-item">
+                                <div class="ranking-card-item">
+                                    <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
+                                    <div class="ranking-description home-util-ellipsis" title="Faux ongles">Faux ongles</div>
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                        <div class="mask-img hot-image">
+                                            <img class="bimg" src="https://s.alicdn.com/@sc04/kf/H6c5946014a004031bc56ab1e198aa7c7b.png_350x350.jpg" alt="topRanking">
+                                            <div class="mask"></div>
+                                        </div>
+                                        <div class="order-tag">
+                                            <span class="tag-score">&nbsp;4.3</span>
+                                        </div>
+                                    </a>
+                                    <div class="cpv-ranking">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/Hf2fd2acb354c4d4a82222f3e5d2bb2f6k.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/H5f53e36423284137afe123fdea9a65a1c.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/Hc804744961b74ec3b0ad2f6aacdab192z.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="rx-image-item">
+                                <div class="ranking-card-item">
+                                    <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
+                                    <div class="ranking-description home-util-ellipsis" title="Phares arrière à LED">Phares arrière à LED</div>
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="false">
+                                        <div class="mask-img hot-image">
+                                            <img class="bimg" src="//s.alicdn.com/@sc04/kf/H801c7bff9a5045beb3152912e3f1608cI.jpg_350x350.jpg" alt="topRanking">
+                                            <div class="mask"></div>
+                                        </div>
+                                        <div class="order-tag">
+                                            <span class="tag-score">&nbsp;4.2</span>
+                                        </div>
+                                    </a>
+                                    <div class="cpv-ranking">
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="false">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/Hc6f75748073e48dd90bc0410bab999abI.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="false">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/Hcd302ceffd984a5e90bd0c30aa6b13d3R.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                        <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=127664030&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="false">
+                                            <div class="mask-img cpv-ranking-product">
+                                                <img class="bimg" src="//s.alicdn.com/@sc04/kf/H0e7f2c85da7f47caa8a07676c7addb6bl.jpg_350x350.jpg" alt="topRanking">
+                                                <div class="mask"></div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+
+
+
+
+
                         <div class="indicator-container ranking-dots">
                             <span class="indicator-dot"></span>
                             <span class="indicator-dot"></span>
@@ -259,7 +660,7 @@ get_header();
                             <div class="dob-floor_slider_name">Tankeu Pauline</div>
                             <div class="dob-floor_slider_job">Mère d'enfant</div>
                         </div>
-                        <div class="dob-floor_slider_reviews">« En tant que jeune maman... »</div>
+                        <div class="dob-floor_slider_reviews">En tant que jeune maman ayant mis aux monde des jumeaux, je me suis consacrée à l'encadrement et à l'épanouisement de mes enfants. BEBECONFORT a été mon partenaire de confiance dans ce processus d'encadrement de mes enfants à travers la qualité des articles à bas qu'ils proposent pour assurer merveilleusement le bien-etre du bébé.»</div>
                     </div>
                 </div>
                 
