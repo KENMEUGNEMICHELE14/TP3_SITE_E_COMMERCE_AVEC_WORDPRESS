@@ -1,21 +1,17 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html <?php language_attributes(); ?>>
 <head>
-    <meta charset="UTF-8">
+    <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style_index.css">
-    <link rel="stylesheet" href="assets/css/king.css">
-    <title>Bébéconfort</title>
+    <title><?php wp_title( '|', true, 'right' ); ?></title>
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <?php wp_head(); ?> 
-
+    <?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?>> 
-    <header>
+<body <?php body_class(); ?>>
+
+<header>
     <div class="top-nav">
-        <a href="index.html" class="logo">BÉBÉCONFORT</a>
+        <a href="<?php echo home_url( '/' ); ?>" class="logo">BÉBÉCONFORT</a>
 
         <div class="search-bar">
             <input type="text" placeholder="Que recherchez-vous ?" aria-label="Rechercher">
@@ -23,24 +19,24 @@
         </div>
 
         <div class="account-cart">
-            <a href="pages/connexion/connexion.html"><i class="fa fa-user"></i> Mon Compte</a>
-            <a href="pages/panier/panier.html"><i class="fa fa-shopping-cart"></i> Panier</a>
+            <a href="<?php echo home_url( '/mon-compte' ); ?>"><i class="fa fa-user"></i> Mon Compte</a>
+            <a href="<?php echo home_url( '/panier' ); ?>"><i class="fa fa-shopping-cart"></i> Panier</a>
         </div>
     </div>
 
     <div class="bottom-nav">
-        <span class="menu-icon" aria-label="Menu" role="button" tabindex="0">&#9776;</span>
-        <nav>
-            <ul class="nav-links">
-                <li><a href="pages/vêtements/pageCategorieVetement.html">Vêtements</a></li>
-                <li><a href="pages/couches_et_lingettes/couche_lingette.html">Couches et Lingettes</a></li>
-                <li><a href="pages/alimentation/alimentation.html">Alimentation</a></li>
-                <li><a href="pages/poussettes/pouset.html">Poussettes</a></li>
-                <li><a href="pages/chaussures/chaussures.html">Chaussures</a></li>
-                <li><a href="pages/amenagement_de_chambre/amenagement.html">Aménagement de chambre</a></li>
-                <li><a href="pages/textile_de_maternité/textile.html">Textile de maternité</a></li>
-                <li><a href="pages/Accessoires/Accessoires.html">Accessoires</a></li>
-            </ul>
-        </nav>
-    </div> 
+        <span class="menu-icon" aria-label="Menu" role="button" tabindex="0">
+            <i class="fa fa-bars"></i>
+        </span>
+        
+        <?php
+            wp_nav_menu( array(
+                'theme_location' => 'primary', // L'identifiant de notre menu (défini dans functions.php)
+                'container'      => 'div',      // La balise qui entoure le menu
+                'container_class'=> 'menu-dropdown', // La classe de cette balise
+                'fallback_cb'    => false,    // Ne rien afficher si aucun menu n'est assigné
+                'depth'          => 2         // Gère les sous-menus (comme vos catégories)
+            ) );
+        ?>
+        </div>
 </header>
