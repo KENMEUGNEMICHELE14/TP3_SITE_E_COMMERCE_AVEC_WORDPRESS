@@ -30,6 +30,9 @@ function bebeconfort_theme_scripts() {
     wp_enqueue_style( 'bebeconfort-cat-vetement', $theme_directory . '/assets/css/stylePageCategorieVetement.css' );
     wp_enqueue_style( 'bebeconfort-cat-couches', $theme_directory . '/assets/css/stylePageCouchesEtLingettes.css' );
     wp_enqueue_style( 'bebeconfort-detail-vetement', $theme_directory . '/assets/css/stylePageDetailVetement.css' );
+
+
+    wp_enqueue_style( 'bebeconfort-theme-fixes', $theme_directory . '/assets/css/theme-fixes.css', array('bebeconfort-style-index') );
 }
 // Ajoute notre fonction au "hook" de WordPress qui gère les styles
 add_action( 'wp_enqueue_scripts', 'bebeconfort_theme_scripts' );
