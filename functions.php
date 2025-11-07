@@ -60,4 +60,4 @@ function bebeconfort_theme_setup() {
 // Ajoute notre fonction au "hook" de WordPress qui gère la configuration
 add_action( 'after_setup_theme', 'bebeconfort_theme_setup' );
 
-// Il n'y a PAS de balise de fermeture ?> C'est intentionnel et c'est une bonne pratique.
+// Il n'y a PAS de balise de fermeture ?>

@@ -25,9 +25,9 @@
     </div>
 
     <div class="bottom-nav">
-        <span class="menu-icon" aria-label="Menu" role="button" tabindex="0">
+        <!-- <span class="menu-icon" aria-label="Menu" role="button" tabindex="0">
             <i class="fa fa-bars"></i>
-        </span>
+        </span> -->
         
         <?php
             wp_nav_menu( array(
