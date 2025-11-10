@@ -1,8 +1,5 @@
 <?php get_header(); ?>
 
-
-
-
 <section class="hero">
     <div class="hero-slider">
         <!-- Slide 1 -->
@@ -71,8 +68,6 @@
     </div>
 </section>
 
-
-
 <section>
     <div class="industry-category-wrapper floor-container" id="ServiceNavigation1" data-spm-anchor-id="a2700.product_home_newuser.0.i7.243e299aHq80zd">
         <div class="industry-category">
@@ -102,7 +97,6 @@
                     <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Previous slide">
                 </div>
             </div>
-
 
 
             <div class="slider_inner">
@@ -258,17 +252,6 @@
     </div>
 
 </section>
-
-
-
-
-
-
-
-
-
-
-
 
 <section>
     <div class="floor-container">
@@ -634,22 +617,6 @@
 </section>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="ServiceNavigation4" data-spm="user_story" class="home-dot-element dob-floor floor-container" data-appeared="true" data-spm-anchor-id="a2700.product_home_newuser.0.user_story.243e299aHq80zd">
     <div class="dob-floor_title" title="Bénéficiez de réductions, de services et d'outils adaptés à chaque étape de votre activité.">Bénéficiez de réductions, de services et d'outils adaptés à chaque étape pour le bon epanouisement de votre bebé .</div>
     <div class="dob-floor_desc" title="Bénéficiez de réductions, de services et d'outils adaptés à chaque étape de votre activité.">Développez vos activités grâce aux avantages offerts par l'adhésion gratuite à BébeConfort.com, que vous soyez une petite entreprise ayant besoin de l'essentiel pour commencer votre sourcing ou une entreprise de Layette déjà bien établie à la recherche d'outils et de solutions pour des commandes plus complexes a l'attention de votre clientele.</div>
@@ -693,12 +660,7 @@
                 </div>
                 
             </div>
-            <!-- <div data-spm="left_button" class="home-dot-element slider_arrow prev no-border" data-appeared="true">
-                <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Previous slide">
-            </div>
-            <div data-spm="right_button" class="home-dot-element slider_arrow next no-border" data-appeared="true">
-                <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Next slide">
-            </div> -->
+
         </div>
     </div>
 </div>

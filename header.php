@@ -11,7 +11,7 @@
   
 <header>
     <div class="top-nav">
-        <a href="../../index.html" class="logo">BÉBÉCONFORT</a>
+        href="<?php echo home_url( '/' ); ?>" class="logo">BÉBÉCONFORT</a>
 
         <div class="search-bar">
             <input type="text" placeholder="Que recherchez-vous ?" aria-label="Rechercher">
