@@ -40,19 +40,19 @@
             <div class="payment-methods">
                 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Visa.svg" alt="Visa" class="footer-payment-logo"></a>
                 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="Mastercard" class="footer-payment-logo"></a>
-                <a href="#"><img src="../../assets/images/images_index/téléchargement.png" alt="American Express" class="footer-payment-logo"></a>
+                <a href="#"><img src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/téléchargement.png" alt="American Express" class="footer-payment-logo"></a>
                 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" alt="PayPal" class="footer-payment-logo"></a>
-                <a href="#"><img src="../../assets/images/images_index/mtn-mobile-money-logo.jpg" alt="Mtn Money" class="footer-payment-logo"></a>
-                <a href="#"><img src="../../assets/images/images_index/orange-money-logo-png_seeklogo-440383.png" alt="orange money" class="footer-payment-logo"></a>
+                <a href="#"><img src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/mtn-mobile-money-logo.jpg" alt="Mtn Money" class="footer-payment-logo"></a>
+                <a href="#"><img src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/orange-money-logo-png_seeklogo-440383.png" alt="orange money" class="footer-payment-logo"></a>
             </div>
         </div>
 
         <div class="footer-column">
             <h4>Réseaux Sociaux</h4>
             <ul>
-                <li><a href="#"><img src="../../assets/images/images_index/facebook.jpg" alt="Facebook" class="social-logo"></a></li>
-                <li><a href="#"><img src="../../assets/images/images_index/instagram.jpg" alt="Instagram" class="social-logo"></a></li>
-                <li><a href="#"><img src="../../assets/images/images_index/twitter.png" alt="Twitter" class="social-logo"></a></li>
+                <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?> /images/images_index/facebook.jpg" alt="Facebook" class="social-logo"></a></li>
+                <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/instagram.jpg" alt="Instagram" class="social-logo"></a></li>
+                <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/twitter.png" alt="Twitter" class="social-logo"></a></li>
             </ul>
         </div>
     </div>

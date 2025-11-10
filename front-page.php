@@ -11,7 +11,7 @@
                 <!-- Partie gauche -->
                 <div class="hero-left">
                     <div class="hero-image">
-                        <img src="assets/images/images_index/bebe_noir.jpg" alt="Bébé">
+                        <img src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/bebe_noir.jpg" alt="Bébé">
                     </div>
                 </div>
                 <!-- Partie droite -->
@@ -29,76 +29,10 @@
                 </div>
             </div>
         </div>
-<!-- 
-         Slide 2 
-        <div class="hero-content">
-            <div class="hero-container">
-                <div class="hero-left">
-                    <div class="hero-image">
-                        <img src="assets/images/images_index/promotions.png" alt="Promotion">
-                    </div>
-                </div>
-                <div class="hero-right">
-                    <div class="hero-text">
-                        <h2><strong>Promotions d'Automne</strong></h2>
-                        <h3><strong>Jusqu'à -50%</strong></h3>
-                        <h3><strong>Sur les collections</strong></h3>
-                        <div class="hero-buttons">
-                            <a href="#" class="btn-primary">Voir les offres</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
-         Slide 3 
-        <div class="hero-content">
-            <div class="hero-container">
-                <div class="hero-left">
-                    <div class="hero-image">
-                        <img src="assets/images/images_index/Gemini_Generated_Image_kykf5dkykf5dkykf.png" alt="Nouveautés">
-                    </div>
-                </div>
-                <div class="hero-right">
-                    <div class="hero-text">
-                        <h2><strong>Nouvelles Collections</strong></h2>
-                        <h3><strong>Automne-Hiver 2025</strong></h3>
-                        <h3><strong>Découvrez les tendances</strong></h3>
-                        <div class="hero-buttons">
-                            <a href="#" class="btn-primary">Explorer</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-
-        
-        
     </div>
-<!-- 
-    <div class="slider-dots">
-        <span class="dot active" data-slide="0"></span>
-        <span class="dot" data-slide="1"></span>
-        <span class="dot" data-slide="2"></span>
-    </div> -->
+
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <section>
@@ -139,12 +73,6 @@
 
 
 
-
-
-
-
-
-
 <section>
     <div class="industry-category-wrapper floor-container" id="ServiceNavigation1" data-spm-anchor-id="a2700.product_home_newuser.0.i7.243e299aHq80zd">
         <div class="industry-category">
@@ -174,14 +102,6 @@
                     <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Previous slide">
                 </div>
             </div>
-
-
-
-
-
-
-
-
 
 
 
@@ -617,12 +537,7 @@
                             </div>
                             
                         </div>
-                        <!-- <div data-spm="left_button" class="home-dot-element slider_arrow prev border" data-appeared="false">
-                            <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Previous slide">
-                        </div>
-                        <div data-spm="right_button" class="home-dot-element slider_arrow next border" data-appeared="false">
-                            <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01bmC5981wgOoiXwhpW_!!6000000006337-2-tps-56-56.png" alt="Next slide">
-                        </div> -->
+            
                         <div class="indicator-container ranking-dots">
                             <span class="indicator-dot"></span>
                             <span class="indicator-dot"></span>
@@ -645,25 +560,25 @@
                         <div class="this-week-product-box">
                             <a class="home-dot-element this-week-product" data-spm="newArrivals" href="https://sale.alibaba.com/p/db971rh77/index.html?spm=a2700.product_home_newuser.scenario_overview.newArrivals&amp;wx_navbar_transparent=true&amp;path=/p/db971rh77/index.html&amp;ncms_spm=a27aq.26625037&amp;prefetchKey=met&amp;wx_xpage=true&amp;topOfferIds=1601521677662&amp;categoryIds=201943703" target="_blank" data-spm-protocol="i" data-appeared="true">
                                 <div class="mask-img this-week-product-image">
-                                    <img class="bimg" src="assets/images/alimentation_images/AC_Bebe.jpg" alt="product-image">
+                                    <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/AC_Bebe.jpg" alt="product-image">
                                     <div class="mask"></div>
                                 </div>
                             </a>
                             <a class="home-dot-element this-week-product" data-spm="newArrivals" href="https://sale.alibaba.com/p/db971rh77/index.html?spm=a2700.product_home_newuser.scenario_overview.newArrivals&amp;wx_navbar_transparent=true&amp;path=/p/db971rh77/index.html&amp;ncms_spm=a27aq.26625037&amp;prefetchKey=met&amp;wx_xpage=true&amp;topOfferIds=1601562415162&amp;categoryIds=1503" target="_blank" data-spm-protocol="i" data-appeared="true">
                                 <div class="mask-img this-week-product-image">
-                                    <img class="bimg" src="assets/images/poussettes_images/jumeau vip.jpeg" alt="product-image">
+                                    <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/poussettes_images/jumeau vip.jpeg" alt="product-image">
                                     <div class="mask"></div>
                                 </div>
                             </a>
                             <a class="home-dot-element this-week-product" data-spm="newArrivals" href="https://sale.alibaba.com/p/db971rh77/index.html?spm=a2700.product_home_newuser.scenario_overview.newArrivals&amp;wx_navbar_transparent=true&amp;path=/p/db971rh77/index.html&amp;ncms_spm=a27aq.26625037&amp;prefetchKey=met&amp;wx_xpage=true&amp;topOfferIds=1601525775480&amp;categoryIds=201725504" target="_blank" data-spm-protocol="i" data-appeared="true">
                                 <div class="mask-img this-week-product-image">
-                                    <img class="bimg" src="assets/images/alimentation_images/Biberon_CL.webp" alt="product-image">
+                                    <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/Biberon_CL.webp" alt="product-image">
                                     <div class="mask"></div>
                                 </div>
                             </a>
                             <a class="home-dot-element this-week-product" data-spm="newArrivals" href="https://sale.alibaba.com/p/db971rh77/index.html?spm=a2700.product_home_newuser.scenario_overview.newArrivals&amp;wx_navbar_transparent=true&amp;path=/p/db971rh77/index.html&amp;ncms_spm=a27aq.26625037&amp;prefetchKey=met&amp;wx_xpage=true&amp;topOfferIds=1601529531912&amp;categoryIds=15" target="_blank" data-spm-protocol="i" data-appeared="true">
                                 <div class="mask-img this-week-product-image">
-                                    <img class="bimg" src="assets/images/alimentation_images/Biberon_CL_250ml.avif" alt="product-image">
+                                    <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/Biberon_CL_250ml.avif" alt="product-image">
                                     <div class="mask"></div>
                                 </div>
                             </a>
@@ -673,7 +588,7 @@
                 <div class="new-launch">
                     <a class="home-dot-element launch-box" data-spm="newLaunches" href="https://sale.alibaba.com/p/new_launches/index.html?spm=a2700.product_home_newuser.scenario_overview.newLaunches&amp;wx_navbar_transparent=true&amp;path=/p/new_launches/index.html&amp;wx_xpage=true&amp;topOfferIds=1600861948765" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="mask-img launch-image">
-                            <img class="bimg" src="assets/images/couches_et_lingettes_images/lingette1.jpg" alt="launch-image">
+                            <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/couches_et_lingettes_images/lingette1.jpg" alt="launch-image">
                             <div class="mask"></div>
                         </div>
                         <div class="launch-title">
@@ -693,7 +608,7 @@
                     <div class="saving-spotlight-card">
                         <a class="home-dot-element ss-image-box" data-spm="savingSpotlight" href="https://sale.alibaba.com/p/saving_spotlight/index.html?spm=a2700.product_home_newuser.scenario_overview.savingSpotlight&amp;wx_navbar_transparent=true&amp;path=/p/saving_spotlight/index.html&amp;ncms_spm=a27aq.savings_spotlight&amp;prefetchKey=met&amp;wx_xpage=true&amp;topOfferIds=62491058821&amp;categoryIds=2829" target="_blank" data-spm-protocol="i" data-appeared="true">
                             <div class="mask-img ss-image">
-                                <img class="bimg" src="assets/images/alimentation_images/DL_Poudre.jpg" alt="ss-image">
+                                <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/DL_Poudre.jpg" alt="ss-image">
                                 <div class="mask"></div>
                             </div>
                             <div class="title home-util-ellipsis line3" title="Meilleur prix sur les 6 derniers mois">Meilleur prix sur les 6 derniers mois</div>
@@ -705,7 +620,7 @@
                         <div class="best-product-title home-util-ellipsis" title="Offres sur les meilleures ventes">Offres sur les meilleures ventes</div>
                         <div class="best-product-inner">
                             <div class="mask-img best-product-image">
-                                <img class="bimg" src="assets/images/amenagement_de_chambre_images/matelas 1.png" alt="best-product-image">
+                                <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/amenagement_de_chambre_images/matelas 1.png" alt="best-product-image">
                                 <div class="mask"></div>
                             </div>
                         </div>
@@ -764,32 +679,11 @@
                         <div class="dob-floor_slider_reviews">« En tant que jeune maman ayant mis aux monde des jumeaux, je me suis consacrée à l'encadrement et à l'épanouisement de mes enfants. BEBECONFORT a été mon partenaire de confiance dans ce processus d'encadrement de mes enfants à travers la qualité des articles à bas qu'ils proposent pour assurer merveilleusement le bien-etre du bébé . »</div>
                     </div>
                 </div>
-<!--            
+
+
                 <div class="rx-image-item">
                     <div class="dob-floor_slider_item">
-                        <img class="bimg dob-floor_slider_img" src="//s.alicdn.com/@img/imgextra/i3/O1CN01wllRR11a9Uiq6syoP_!!6000000003287-2-tps-352-352.png_350x350.jpg" alt="Dr. Sayed Ibrihim">
-                        <div>
-                            <div class="dob-floor_slider_name">Dr. Sayed Ibrihim</div>
-                            <div class="dob-floor_slider_job">Fondateur de SprinJene</div>
-                        </div>
-                        <div class="dob-floor_slider_reviews">« Quand j'ai découvert Alibaba.com, j'ai été stupéfait par l'immense choix de fournisseurs internationaux disponibles. »</div>
-                    </div>
-                </div>
-                
-                <div class="rx-image-item">
-                    <div class="dob-floor_slider_item">
-                        <img class="bimg dob-floor_slider_img" src="//s.alicdn.com/@img/imgextra/i4/O1CN01cBGvqy1R9eJnhkpv5_!!6000000002069-2-tps-352-352.png_350x350.jpg" alt="Ron Williams et Tonja Williams">
-                        <div>
-                            <div class="dob-floor_slider_name">Ron Williams et Tonja Williams</div>
-                            <div class="dob-floor_slider_job">Fondateur et PDG (respectivement) de Ron Williams Fitness</div>
-                        </div>
-                        <div class="dob-floor_slider_reviews">« Alibaba.com change la donne pour les petites entreprises comme nous. Nous avons pu trouver le produit exact dont nous avions besoin et je ne pense pas que nous aurions pu trouver quoi que ce soit sans Alibaba.com. »</div>
-                    </div>
-                </div>
-                 -->
-                <div class="rx-image-item">
-                    <div class="dob-floor_slider_item">
-                        <img class="bimg dob-floor_slider_img" src="assets/images/images_index/bebe_noir.jpg" alt="Eva Jane">
+                        <img class="bimg dob-floor_slider_img" src="<?php echo get_template_directory_uri(); ?> /assets/images/images_index/bebe_noir.jpg" alt="Eva Jane">
                         <div>
                             <div class="dob-floor_slider_name">Tankeu Pauline</div>
                             <div class="dob-floor_slider_job">Mère d'enfant</div>
