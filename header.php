@@ -46,4 +46,6 @@
             <a href="#">Contact</a>
         </div>
     </div>
+
+    <?php wp_head(); ?>
 </header>
