@@ -1,112 +1,138 @@
 /* ======================================= */
-/* == CORRECTION MENU V4 (FINALE)       == */
+/* == CORRECTION MENU V5 (FINALE)       == */
 /* ======================================= */
 
-/* --- 1. RÉGLAGES DESKTOP (par défaut) --- */
-/* (Pour les écrans > 768px) */
-
-/* Masquer l'icône hamburger ("la box") sur DESKTOP */
-/* On utilise !important pour être sûr de gagner 
-   contre la règle mobile */
+/* --- 1. VUE BUREAU (Desktop) --- */
+/* (S'applique aux écrans > 768px) */
 @media (min-width: 769px) {
+
+    /* Cacher l'icône hamburger ("la box") */
     .bottom-nav .menu-icon {
         display: none !important;
     }
+
+    /* Afficher le conteneur du menu */
+    .bottom-nav .menu-dropdown {
+        display: flex !important;
+        flex-direction: row !important; /* Force horizontale */
+        position: relative !important;
+        top: auto !important;
+        background-color: transparent !important;
+        width: 100% !important;
+        padding: 0 !important;
+        box-shadow: none !important;
+    }
+
+    /* Forcer la liste UL à être le menu horizontal */
+    .bottom-nav .menu-dropdown > ul.menu {
+        display: flex !important;
+        flex-direction: row !important; /* Items horizontaux */
+        list-style: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100%;
+        background-color: transparent !important;
+    }
+
+    /* Liens A principaux (Accueil, Catégories...) */
+    .bottom-nav .menu-dropdown > ul.menu > li > a {
+        display: block;
+        color: #fff !important; /* Blanc sur barre noire */
+        padding: 14px 20px !important;
+        text-decoration: none !important;
+        font-weight: bold;
+        border: none !important;
+    }
+    .bottom-nav .menu-dropdown > ul.menu > li > a:hover {
+        background-color: #555 !important;
+    }
+
+    /* L'EFFET HOVER (Desktop UNIQUEMENT) */
+    .bottom-nav li.menu-item-has-children:hover > ul.sub-menu {
+        display: block !important;
+    }
 }
 
-/* Forcer le conteneur .menu-dropdown à s'afficher 
-   correctement sur DESKTOP */
-.bottom-nav .menu-dropdown {
-    display: flex !important;
-    flex-direction: row !important; /* Force la direction horizontale */
-    position: relative !important; /* Annule le 'position: absolute' du mobile */
-    top: auto !important;
-    background-color: none !important; /* Le fond est sur .bottom-nav */
-    width: 100% !important;
-    padding: 0 !important;
-}
-
-/* Forcer la liste UL à être le menu horizontal */
-.bottom-nav .menu-dropdown > ul.menu {
-    display: flex !important;
-    flex-direction: row !important; /* Items horizontaux */
-    list-style: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    width: 100%;
-    background-color: transparent !important;
-}
-
-/* Items LI principaux */
-.bottom-nav .menu-dropdown > ul.menu > li {
-    display: block;
-    margin: 0;
-    padding: 0;
-    position: relative; /* Pour le sous-menu */
-}
-
-/* Liens A principaux (Accueil, Catégories...) */
-.bottom-nav .menu-dropdown > ul.menu > li > a {
-    /* Ces styles sont tirés de votre .style_index.css */
-    display: block;
-    color: #fff; /* Blanc */
-    padding: 14px 20px;
-    text-decoration: none;
-    font-weight: bold; /* Ajout pour correspondre à la maquette */
-}
-
-/* Hover des liens principaux */
-.bottom-nav .menu-dropdown > ul.menu > li > a:hover {
-    background-color: #555; /* Fond au survol de style_index.css */
-}
-
-/* --- 2. GESTION DU SOUS-MENU (Dropdown) --- */
-
-/* Le conteneur <ul> du sous-menu ("Vêtements"...) */
-.bottom-nav ul.sub-menu {
-    display: none; /* CACHÉ par défaut */
-    position: absolute;
-    top: 100%; /* S'affiche juste en dessous du parent */
-    left: 0;
-    background-color: #f9f9f9; /* Fond clair de style_index.css */
-    min-width: 250px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Ombre de style_index.css */
-    z-index: 1000;
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-
-/* L'EFFET HOVER (quand on survole le LI parent "Catégories") */
-.bottom-nav li.menu-item-has-children:hover > ul.sub-menu {
-    display: block !important; /* AFFICHER ! */
-}
-
-/* Liens <a> dans le sous-menu */
-.bottom-nav ul.sub-menu li a {
-    color: black !important;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-/* Hover des liens du sous-menu */
-.bottom-nav ul.sub-menu li a:hover {
-    background-color: #ddd !important;
-}
-
-
-/* --- 3. RÉGLAGES MOBILES (<= 768px) --- */
-/* On s'assure que la vue mobile est correcte */
-@media screen and (max-width: 768px) {
+/* --- 2. VUE MOBILE (<= 768px) --- */
+@media (max-width: 768px) {
 
     /* Afficher l'icône hamburger */
     .bottom-nav .menu-icon {
         display: block !important;
     }
 
-    /* Cacher le menu (il sera géré par JS plus tard) */
+    /* CACHER le menu par défaut */
     .bottom-nav .menu-dropdown {
         display: none !important; 
     }
+
+    /* Styles pour quand le menu mobile est ouvert 
+       (on ajoutera la classe .show-menu avec JS plus tard) */
+    .bottom-nav.show-menu .menu-dropdown {
+        display: flex !important;
+        flex-direction: column !important; /* Vertical */
+        position: absolute !important;
+        top: 100% !important; /* Sous la barre noire */
+        left: 0 !important;
+        width: 100% !important;
+        background-color: #f9f9f9 !important; /* Fond clair */
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    }
+
+    /* Liens A principaux (SUR MOBILE) */
+    .bottom-nav.show-menu .menu-dropdown > ul.menu > li > a {
+        color: #333 !important; /* Noir sur fond clair */
+        padding: 12px 16px !important;
+        display: block;
+        text-decoration: none !important;
+    }
+    .bottom-nav.show-menu .menu-dropdown > ul.menu > li > a:hover {
+        background-color: #ddd !important;
+    }
+}
+
+
+/* --- 3. STYLES COMMUNS (SOUS-MENU) --- */
+
+/* Items LI principaux (Accueil, Catégories...) */
+.bottom-nav .menu-dropdown > ul.menu > li {
+    position: relative; /* Pour le sous-menu */
+}
+
+/* Le conteneur <ul> du sous-menu (Desktop & Mobile) */
+.bottom-nav ul.sub-menu {
+    display: none; /* CACHÉ par défaut */
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    z-index: 1000;
+    /* Style Desktop (sera écrasé sur mobile si besoin) */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f9f9f9;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Position du sous-menu (MOBILE) */
+@media (max-width: 768px) {
+    .bottom-nav ul.sub-menu {
+        position: relative !important; /* S'affiche dans le flux */
+        width: 100% !important;
+        box-shadow: none !important;
+        background-color: #f1f1f1 !important; /* Fond différent pour les sous-items */
+    }
+}
+
+/* Liens <a> dans le sous-menu (Desktop & Mobile) */
+.bottom-nav ul.sub-menu li a {
+    color: black !important;
+    padding: 12px 20px !important;
+    text-decoration: none !important;
+    display: block !important;
+}
+
+.bottom-nav ul.sub-menu li a:hover {
+    background-color: #ddd !important;
 }
