@@ -11,7 +11,7 @@
   
 <header>
     <div class="top-nav">
-        href="<?php echo home_url( '/' ); ?>" class="logo">BÉBÉCONFORT</a>
+        <a href="<?php echo home_url( '/' ); ?>" class="logo">BÉBÉCONFORT</a>
 
         <div class="search-bar">
             <input type="text" placeholder="Que recherchez-vous ?" aria-label="Rechercher">
@@ -19,8 +19,8 @@
         </div>
 
         <div class="account-cart">
-            <a href="../../pages/connexion/connexion.html"><i class="fa fa-user"></i> Mon Compte</a>
-            <a href="../../pages/panier/panier.html"><i class="fa fa-shopping-cart"></i> Panier</a>
+            <a href="#"><i class="fa fa-user"></i> Mon Compte</a>
+            <a href="#"><i class="fa fa-shopping-cart"></i> Panier</a>
         </div>
     </div>
 
@@ -33,13 +33,13 @@
             <div class="category-dropdown">
                 <a href="#" class="dropdown-trigger">Catégories <i class="fa fa-caret-down"></i></a>
                 <div class="dropdown-content">
-                    <a href="../../pages/vêtements/pageCategorieVetement.html">Vêtements</a>
-                    <a href="../../pages/alimentation/alimentation.html">Alimentation</a>
-                    <a href="../../pages/accessoires/accessoires.html">Accessoires</a>
-                    <a href="../../pages/chaussures/chaussures.html">Chaussures</a>
-                    <a href="../../pages/textile_de_maternité/textile.html">Textile de Maternité</a>
-                    <a href="../../pages/poussettes/pouset.html">Poussettes</a>
-                    <a href="../../pages/amenagement_de_chambre/amenagement.html">Aménagement de La chambre</a>
+                    <a href="#">Vêtements</a>
+                    <a href="#">Alimentation</a>
+                    <a href="#">Accessoires</a>
+                    <a href="#">Chaussures</a>
+                    <a href="#">Textile de Maternité</a>
+                    <a href="">Poussettes</a>
+                    <a href="">Aménagement de La chambre</a>
                 </div>
             </div>
             <a href="#">À propos</a>
