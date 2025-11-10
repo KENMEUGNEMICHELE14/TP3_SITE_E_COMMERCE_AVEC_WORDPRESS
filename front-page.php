@@ -1,3 +1,8 @@
+<?php get_header(); ?>
+
+
+
+
 <section class="hero">
     <div class="hero-slider">
         <!-- Slide 1 -->
@@ -803,3 +808,5 @@
         </div>
     </div>
 </div>
+
+<?php get_footer(); ?>
