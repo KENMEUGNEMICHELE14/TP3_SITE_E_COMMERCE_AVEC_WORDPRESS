@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html <?php language_attributes(); ?>>
+<html lang="fr">
 <head>
-    <meta charset="<?php bloginfo( 'charset' ); ?>">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php wp_title( '|', true, 'right' ); ?></title>
-    
-    <?php wp_head(); ?>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon Panier - BÉBÉCONFORT</title>
+  <link rel="stylesheet" href="../../assets/css/panier.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
-<body <?php body_class(); ?>>
-
+<body>
+  
 <header>
     <div class="top-nav">
-        <a href="<?php echo home_url( '/' ); ?>" class="logo">BÉBÉCONFORT</a>
+        <a href="../../index.html" class="logo">BÉBÉCONFORT</a>
 
         <div class="search-bar">
             <input type="text" placeholder="Que recherchez-vous ?" aria-label="Rechercher">
@@ -19,24 +19,31 @@
         </div>
 
         <div class="account-cart">
-            <a href="<?php echo home_url( '/mon-compte' ); ?>"><i class="fa fa-user"></i> Mon Compte</a>
-            <a href="<?php echo home_url( '/panier' ); ?>"><i class="fa fa-shopping-cart"></i> Panier</a>
+            <a href="../../pages/connexion/connexion.html"><i class="fa fa-user"></i> Mon Compte</a>
+            <a href="../../pages/panier/panier.html"><i class="fa fa-shopping-cart"></i> Panier</a>
         </div>
     </div>
 
     <div class="bottom-nav">
-        <!-- <span class="menu-icon" aria-label="Menu" role="button" tabindex="0">
+        <span class="menu-icon" aria-label="Menu" role="button" tabindex="0">
             <i class="fa fa-bars"></i>
-        </span> -->
-        
-        <?php
-            wp_nav_menu( array(
-                'theme_location' => 'primary', // L'identifiant de notre menu (défini dans functions.php)
-                'container'      => 'div',      // La balise qui entoure le menu
-                'container_class'=> 'menu-dropdown', // La classe de cette balise
-                'fallback_cb'    => false,    // Ne rien afficher si aucun menu n'est assigné
-                'depth'          => 2         // Gère les sous-menus (comme vos catégories)
-            ) );
-        ?>
+        </span>
+        <div class="menu-dropdown">
+            <a href="../../index.html">Accueil</a>
+            <div class="category-dropdown">
+                <a href="#" class="dropdown-trigger">Catégories <i class="fa fa-caret-down"></i></a>
+                <div class="dropdown-content">
+                    <a href="../../pages/vêtements/pageCategorieVetement.html">Vêtements</a>
+                    <a href="../../pages/alimentation/alimentation.html">Alimentation</a>
+                    <a href="../../pages/accessoires/accessoires.html">Accessoires</a>
+                    <a href="../../pages/chaussures/chaussures.html">Chaussures</a>
+                    <a href="../../pages/textile_de_maternité/textile.html">Textile de Maternité</a>
+                    <a href="../../pages/poussettes/pouset.html">Poussettes</a>
+                    <a href="../../pages/amenagement_de_chambre/amenagement.html">Aménagement de La chambre</a>
+                </div>
+            </div>
+            <a href="#">À propos</a>
+            <a href="#">Contact</a>
         </div>
+    </div>
 </header>
