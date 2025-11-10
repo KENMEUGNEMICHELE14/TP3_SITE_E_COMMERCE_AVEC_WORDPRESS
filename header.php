@@ -29,7 +29,7 @@
             <i class="fa fa-bars"></i>
         </span>
         <div class="menu-dropdown">
-            <a href="../../index.html">Accueil</a>
+            <a href="<?php echo home_url( '/' ); ?>">Accueil</a>
             <div class="category-dropdown">
                 <a href="#" class="dropdown-trigger">Catégories <i class="fa fa-caret-down"></i></a>
                 <div class="dropdown-content">

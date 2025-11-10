@@ -34,7 +34,7 @@
                 <li><a href="#">Conditions Générales</a></li>
             </ul>
         </div>
-        
+
         <div class="footer-column">
             <h4>Methode De paiement</h4>
             <div class="payment-methods">
