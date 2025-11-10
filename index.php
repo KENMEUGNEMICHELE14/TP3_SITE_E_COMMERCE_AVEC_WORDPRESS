@@ -101,7 +101,7 @@
 
             <div class="slider_inner">
                 <div class="industry-row">
-                    <a title="Chaussures" class="home-dot-element " data-spm="category-11" href="pages/chaussures/chaussures.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a title="Chaussures" class="home-dot-element " data-spm="category-11" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01WD8L611FtC7zB5hSv_!!6000000000544-2-tps-200-200.png" alt="Environnement category icon">
                             <div class="industry-name">
@@ -109,7 +109,7 @@
                             </div>
                         </div>
                     </a>
-                    <a title="Alimentation" class="home-dot-element " data-spm="category-28" href="pages/alimentation/alimentation.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a title="Alimentation" class="home-dot-element " data-spm="category-28" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i3/O1CN01fm34sD1PrUwNSEFdk_!!6000000001894-2-tps-200-200.png" alt="Services commerciaux category icon">
                             <div class="industry-name">
@@ -119,7 +119,7 @@
                     </a>
                 </div>
                 <div class="industry-row">
-                    <a title="Poussettes" class="home-dot-element " data-spm="category-44" href="pages/poussettes/pouset.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a title="Poussettes" class="home-dot-element " data-spm="category-44" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01lTlEA71idHDZyDnE1_!!6000000004435-2-tps-200-200.png" alt="Électronique grand public category icon">
                             <div class="industry-name">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                     </a>
-                    <a title="Vêtements et accessoires" class="home-dot-element " data-spm="category-3" href="pages/vêtements/pageCategorieVetement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a title="Vêtements et accessoires" class="home-dot-element " data-spm="category-3" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01Si2Chv1URSNSZI3w2_!!6000000002514-2-tps-200-200.png" alt="Vêtements et accessoires category icon">
                             <div class="industry-name">
@@ -137,7 +137,7 @@
                     </a>
                 </div>
                 <div class="industry-row">
-                    <a title="Amenagement de chambre" class="home-dot-element " data-spm="category-15" href="pages/amenagement_de_chambre/amenagement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a title="Amenagement de chambre" class="home-dot-element " data-spm="category-15" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01FNDTXs1Js3bqyZjbx_!!6000000001083-2-tps-200-200.png" alt="Maison et jardin category icon">
                             <div class="industry-name">
@@ -145,7 +145,7 @@
                             </div>
                         </div>
                     </a>
-                    <a title="Vetements" class="home-dot-element " data-spm="category-18" href="pages/vêtements/pageCategorieVetement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a title="Vetements" class="home-dot-element " data-spm="category-18" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i2/O1CN01pTq4g71X95KxEqsrz_!!6000000002880-2-tps-200-200.png" alt="Sports et loisirs category icon">
                             <div class="industry-name">
@@ -155,7 +155,7 @@
                     </a>
                 </div>
                 <div class="industry-row">
-                    <a title="Textile de maternité" class="home-dot-element " data-spm="category-66" href="pages/textile_de_maternité/textile.html" target="_blank" data-spm-protocol="i" data-appeared="false">
+                    <a title="Textile de maternité" class="home-dot-element " data-spm="category-66" href="#" target="_blank" data-spm-protocol="i" data-appeared="false">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i3/O1CN01gRUkNN1sW5HWJb8Me_!!6000000005773-2-tps-200-200.png" alt="Beauté category icon">
                             <div class="industry-name">
@@ -163,7 +163,7 @@
                             </div>
                         </div>
                     </a>
-                    <a title="Accessoires" class="home-dot-element " data-spm="category-23" href="pages/accessoires/accessoires.html" target="_blank" data-spm-protocol="i" data-appeared="false">
+                    <a title="Accessoires" class="home-dot-element " data-spm="category-23" href="#" target="_blank" data-spm-protocol="i" data-appeared="false">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01c8xN8n1Xl6DAeTUDe_!!6000000002963-2-tps-200-200.png" alt="Emballage et impression category icon">
                             <div class="industry-name">
@@ -173,7 +173,7 @@
                     </a>
                 </div>
                 <div class="industry-row">
-                    <a title="Couches et Lingettes" class="home-dot-element " data-spm="category-36" href="pages/couches_et_lingettes/couche_lingette.html" target="_blank" data-spm-protocol="i" data-appeared="false">
+                    <a title="Couches et Lingettes" class="home-dot-element " data-spm="category-36" href="#" target="_blank" data-spm-protocol="i" data-appeared="false">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i1/O1CN012sGbIl1o81tW54KPo_!!6000000005179-2-tps-200-200.png" alt="Bijouterie, lunetterie, horlogerie et accessoires category icon">
                             <div class="industry-name">
@@ -210,7 +210,7 @@
                 </div>
 
                 <div class="industry-row">
-                    <a title="Chaussures et accessoires" class="home-dot-element " data-spm="category-322" href="pages/chaussures/chaussures.html" target="_blank" data-spm-protocol="i">
+                    <a title="Chaussures et accessoires" class="home-dot-element " data-spm="category-322" href="#" target="_blank" data-spm-protocol="i">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i1/O1CN01GqpTkM1kCNBbXXtfT_!!6000000004647-2-tps-200-200.png" alt="Chaussures et accessoires category icon">
                             <div class="industry-name">
@@ -236,7 +236,7 @@
                             </div>
                         </div>
                     </a>
-                    <a title="Biberon" class="home-dot-element " data-spm="category-201951502" href="pages/alimentation/alimentation.html" target="_blank" data-spm-protocol="i">
+                    <a title="Biberon" class="home-dot-element " data-spm="category-201951502" href="#" target="_blank" data-spm-protocol="i">
                         <div class="industry-item">
                             <img src="https://s.alicdn.com/@img/imgextra/i4/O1CN01ICig8T1LX6qUzxNqk_!!6000000001308-2-tps-200-200.png" alt="Soins personnels et nettoyage ménager category icon">
                             <div class="industry-name">
@@ -261,7 +261,7 @@
             <div class="ranking-card-box">
                 <div class="ranking-title">
                     <div class="title home-fw-semi-bold" title="Meilleures ventes">Meilleures ventes</div>
-                    <a class="home-dot-element home-fz-medium view-more" data-spm="topRanking" href="pages/alimentation/alimentation.html" target="_blank" data-spm-protocol="i" data-appeared="true">En savoir plus</a>
+                    <a class="home-dot-element home-fz-medium view-more" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">En savoir plus</a>
                 </div>
                 <div class="ranking-card-slider-box">
                     <div class="rx-carousel-container">
@@ -273,7 +273,7 @@
                                     <div class="ranking-description home-util-ellipsis" title="Faux ongles">Faux ongles</div>
                                     <a class="home-dot-element hot-product" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=330801&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i">
                                         <div class="mask-img hot-image">
-                                            <img src="../../assets/images/alimentation_images/TL_M.jpg" alt="topRanking">
+                                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/TL_M.jpg" alt="topRanking">
                                             <div class="mask"></div>
                                         </div>
                                         <div class="order-tag">
@@ -379,9 +379,9 @@
                                 <div class="ranking-card-item">
                                     <div class="title home-util-ellipsis" title="Ventes à la Une">Ventes à la Une</div>
                                     <div class="ranking-description home-util-ellipsis" title="Machines de remplissage">Tire-Lait Manuel</div>
-                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="pages/alimentation/detail_Tire-Lait Manuel.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                                    <a class="home-dot-element hot-product" data-spm="topRanking" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                                         <div class="mask-img hot-image">
-                                            <img src="assets/images/alimentation_images/TL_M.jpg" alt="topRanking">
+                                            <img src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/TL_M.jpg" alt="topRanking">
                                             <div class="mask"></div>
                                         </div>
                                         <div class="order-tag">
@@ -391,19 +391,19 @@
                                     <div class="cpv-ranking">
                                         <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010756&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
                                             <div class="mask-img cpv-ranking-product">
-                                                <img class="bimg" src="assets/images/alimentation_images/Tetine_S.webp" alt="topRanking">
+                                                <img class="bimg" src="<?php echo get_template_directory_uri(); ?> assets/images/alimentation_images/Tetine_S.webp" alt="topRanking">
                                                 <div class="mask"></div>
                                             </div>
                                         </a>
                                         <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010756&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
                                             <div class="mask-img cpv-ranking-product">
-                                                <img class="bimg" src="assets/images/alimentation_images/Goupillon_B.jpg" alt="topRanking">
+                                                <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/Goupillon_B.jpg" alt="topRanking">
                                                 <div class="mask"></div>
                                             </div>
                                         </a>
                                         <a class="home-dot-element cpv-ranking-product-box" data-spm="topRanking" href="https://sale.alibaba.com/p/dviiav4th/index.html?spm=a2700.product_home_newuser.scenario_overview.topRanking&amp;wx_navbar_transparent=true&amp;path=/p/dviiav4th/index.html&amp;categoryIds=100010756&amp;rankTypeId=1&amp;rankCountryId=global" target="_blank" data-spm-protocol="i" data-appeared="true">
                                             <div class="mask-img cpv-ranking-product">
-                                                <img class="bimg" src="assets/images/alimentation_images/S_UV.jpg" alt="topRanking">
+                                                <img class="bimg" src="<?php echo get_template_directory_uri(); ?> /assets/images/alimentation_images/S_UV.jpg" alt="topRanking">
                                                 <div class="mask"></div>
                                             </div>
                                         </a>
@@ -536,7 +536,7 @@
                 <div>
                     <div class="new-arrival-title">
                         <div class="title home-fw-semi-bold">Nouveautés</div>
-                        <a class="home-dot-element home-fz-medium view-more" data-spm="newArrivals" href="pages/Accessoires/Accessoires.html" target="_blank" data-spm-protocol="i" data-appeared="true">En savoir plus</a>
+                        <a class="home-dot-element home-fz-medium view-more" data-spm="newArrivals" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">En savoir plus</a>
                     </div>
                     <div class="new-this-week">
                         <div class="title home-util-ellipsis">117,000+ nouveaux produits</div>
@@ -586,7 +586,7 @@
                 <div>
                     <div class="saving-spotlight-title">
                         <div class="title home-fw-semi-bold">Bonnes affaires</div>
-                        <a class="home-dot-element home-fz-medium view-more" data-spm="savingSpotlight" href="pages/vêtements/pageCategorieVetement.html" target="_blank" data-spm-protocol="i" data-appeared="false">En savoir plus</a>
+                        <a class="home-dot-element home-fz-medium view-more" data-spm="savingSpotlight" href="#" target="_blank" data-spm-protocol="i" data-appeared="false">En savoir plus</a>
                     </div>
                     <div class="saving-spotlight-card">
                         <a class="home-dot-element ss-image-box" data-spm="savingSpotlight" href="https://sale.alibaba.com/p/saving_spotlight/index.html?spm=a2700.product_home_newuser.scenario_overview.savingSpotlight&amp;wx_navbar_transparent=true&amp;path=/p/saving_spotlight/index.html&amp;ncms_spm=a27aq.savings_spotlight&amp;prefetchKey=met&amp;wx_xpage=true&amp;topOfferIds=62491058821&amp;categoryIds=2829" target="_blank" data-spm-protocol="i" data-appeared="true">
@@ -599,7 +599,7 @@
                     </div>
                 </div>
                 <div class="best-product-card">
-                    <a class="home-dot-element best-product-image-box" data-spm="bestSellers" href="pages/amenagement_de_chambre/amenagement.html" target="_blank" data-spm-protocol="i" data-appeared="true">
+                    <a class="home-dot-element best-product-image-box" data-spm="bestSellers" href="#" target="_blank" data-spm-protocol="i" data-appeared="true">
                         <div class="best-product-title home-util-ellipsis" title="Offres sur les meilleures ventes">Offres sur les meilleures ventes</div>
                         <div class="best-product-inner">
                             <div class="mask-img best-product-image">
