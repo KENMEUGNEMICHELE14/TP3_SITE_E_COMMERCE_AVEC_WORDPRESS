@@ -624,18 +624,7 @@
     <div class="dob-floor_rotating_wrapper">
         <div class="rx-carousel-container show-arrow dob-floor_slider_wrapper">
             <div class="rx-image-list" style="transform: translateX(-100%); transition: transform 0.5s;">
-<!--                 
-                <div class="rx-image-item">
-                    <div class="dob-floor_slider_item">
-                        <img class="bimg dob-floor_slider_img" src="//s.alicdn.com/@img/imgextra/i4/O1CN01cBGvqy1R9eJnhkpv5_!!6000000002069-2-tps-352-352.png_350x350.jpg" alt="Ron Williams et Tonja Williams">
-                        <div>
-                            <div class="dob-floor_slider_name">Ron Williams et Tonja Williams</div>
-                            <div class="dob-floor_slider_job">Fondateur et PDG (respectivement) de Ron Williams Fitness</div>
-                        </div>
-                        <div class="dob-floor_slider_reviews">« Alibaba.com change la donne pour les petites entreprises comme nous. Nous avons pu trouver le produit exact dont nous avions besoin et je ne pense pas que nous aurions pu trouver quoi que ce soit sans Alibaba.com. »</div>
-                    </div>
-                </div>
-                 -->
+
                 <div class="rx-image-item">
                     <div class="dob-floor_slider_item" data-spm-anchor-id="a2700.product_home_newuser.user_story.i0.243e299aHq80zd">
                         <img class="bimg dob-floor_slider_img" src="//s.alicdn.com/@img/imgextra/i4/O1CN01XrvnBG1YDUxJ0l5Bh_!!6000000003025-2-tps-352-352.png_350x350.jpg" alt="Eva Jane">
