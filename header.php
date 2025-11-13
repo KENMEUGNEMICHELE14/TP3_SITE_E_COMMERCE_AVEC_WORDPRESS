@@ -18,10 +18,13 @@
             <button aria-label="Lancer la recherche"><i class="fa fa-search"></i></button>
         </div>
 
+        
         <div class="account-cart">
-            <a href="#"><i class="fa fa-user"></i> Mon Compte</a>
-            <a href="#"><i class="fa fa-shopping-cart"></i> Panier</a>
+            <a href="<?php echo esc_url( get_permalink( wc_get_page_id( 'myaccount' ) ) ); ?>"><i class="fa fa-user"></i> Mon Compte</a>
+
+            <a href="<?php echo esc_url( get_permalink( wc_get_page_id( 'cart' ) ) ); ?>"><i class="fa fa-shopping-cart"></i> Panier</a>
         </div>
+
     </div>
 
     <div class="bottom-nav">
