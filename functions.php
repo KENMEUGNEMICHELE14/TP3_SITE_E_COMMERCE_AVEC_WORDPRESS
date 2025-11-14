@@ -48,6 +48,7 @@ function bebeconfort_enqueue_assets() {
 
 }
 
+
 // Dire à WordPress d'exécuter cette fonction au bon moment
 add_action( 'wp_enqueue_scripts', 'bebeconfort_enqueue_assets' );
 
