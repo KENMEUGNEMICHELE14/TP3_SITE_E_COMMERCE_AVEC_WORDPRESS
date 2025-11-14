@@ -1,3 +1,5 @@
+<?php get_header(); ?>
+
 <main>
     <!-- Banner -->
     <section class="banner">
@@ -87,3 +89,5 @@
     </div>
 
 </main>
+
+<?php get_footer(); ?>

@@ -32,6 +32,20 @@ function bebeconfort_enqueue_assets() {
         'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' 
     );
 
+
+
+        // Charger le style pour la page catégorie (mystyle.css)
+    wp_enqueue_style( 
+        'bebeconfort-my-style', 
+        get_template_directory_uri() . '/assets/css/mystyle.css' 
+    );
+
+    // Charger le style spécifique de la page catégorie
+    wp_enqueue_style( 
+        'bebeconfort-category-style', 
+        get_template_directory_uri() . '/assets/css/stylePageCategorieVetement.css' 
+    );
+
 }
 
 // Dire à WordPress d'exécuter cette fonction au bon moment
