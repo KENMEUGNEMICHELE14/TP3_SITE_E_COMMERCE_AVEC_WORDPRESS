@@ -69,24 +69,59 @@
   <!-- ----- GRILLE DE PRODUITS ----- -->
 
     <div class="product-grid">
-      <!-- 15 produits (Exemple avec placeholders) -->
-    
-      <a href="../../pages/vêtements/pageDetailVetement1.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé1.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement2.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé2.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement3.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé3.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement4.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé4.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement5.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé5.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement6.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé6.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement7.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé7.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement8.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé8.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement9.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé9.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement10.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé10.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement11.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé11.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement12.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé12.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement13.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé13.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement14.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé14.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-      <a href="../../pages/vêtements/pageDetailVetement15.html"> <div class="product-card">  <img class="product-image" src="../../assets/images/vetements bébé/vetement bébé15.png" alt="Produit 9"> <div class="product-name">couffin en bois recouvert de tissu</div>  <div class="product-price">30.000 FCFA</div>  <button class="add-to-cart">Ajouter au panier</button>  </div>   </a>
-    </div>
+
+        <?php
+        if ( have_posts() ) : 
+
+            // Démarre la boucle pour afficher chaque produit
+            while ( have_posts() ) : the_post(); 
+
+                global $product; // Accéder à l'objet produit de WooCommerce
+        ?>
+
+                <div class="product-card">
+
+                    <a href="<?php the_permalink(); ?>">
+                        <?php echo $product->get_image('woocommerce_thumbnail', ['class' => 'product-image']); // Utilise la classe 'product-image' de ton CSS ?>
+                    </a>
+
+                    <h3 class="product-name">
+                        <a href="<?php the_permalink(); ?>">
+                            <?php the_title(); ?>
+                        </a>
+                    </h3>
+
+                    <div class="product-price">
+                        <?php echo $product->get_price_html(); ?>
+                    </div>
+
+                    <?php
+                        // Génère le bouton "Ajouter au panier" en utilisant la classe 'add-to-cart' de ton CSS
+                        echo apply_filters( 'woocommerce_loop_add_to_cart_link',
+                            sprintf( '<a href="%s" rel="nofollow" data-product_id="%s" data-product_sku="%s" class="button add-to-cart %s product_type_%s">%s</a>',
+                                esc_url( $product->add_to_cart_url() ),
+                                esc_attr( $product->get_id() ),
+                                esc_attr( $product->get_sku() ),
+                                $product->is_purchasable() && $product->is_in_stock() ? 'add_to_cart_button' : '',
+                                esc_attr( $product->get_type() ),
+                                esc_html( $product->add_to_cart_text() )
+                            ),
+                        $product );
+                    ?>
+                </div>
+                <?php 
+            endwhile; // Fin de la boucle
+
+        else : 
+
+            // S'il n'y a VRAIMENT aucun produit, on affiche le message
+            echo __( 'Aucun produit n’a été trouvé.' );
+
+        endif; 
+        ?>
+
+
+
 
 </main>
 
